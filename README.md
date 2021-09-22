@@ -10,7 +10,8 @@
 | [Books](#books) | [JDK](#JDK) | [framework](#framework) |
 
 ## books
-[编译原理 第二版](编译原理.md)
+### 编译原理 第二版
+[引论](/books/compiler/01-introduction.md)
 
 ## JDK
 
